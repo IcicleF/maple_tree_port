@@ -1,0 +1,15 @@
+.vscode
+
+*~
+.directory
+.Trash-*
+
+*.ko
+*.mod
+*.o
+*.ur-safe
+*.cmd
+
+.cache.mk
+modules.order
+Module.symvers
