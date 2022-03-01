@@ -6,6 +6,7 @@
 
 *.ko
 *.mod
+*.mod.c
 *.o
 *.ur-safe
 *.cmd
